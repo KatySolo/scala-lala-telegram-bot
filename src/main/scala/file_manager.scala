@@ -36,7 +36,6 @@ object file_manager {
   }
 
   def stop_pol_function(str: String): Unit = {
-
   }
 
   def result_function(str: String): Unit = {
