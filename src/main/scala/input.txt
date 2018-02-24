@@ -1,1 +1,3 @@
-/a
+/create_poll
+Cr
+yes afterstop 10:30
